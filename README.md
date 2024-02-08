@@ -6,6 +6,7 @@
 <h3 align="center">interested in BackEnd Web Development</h3>
 <p align="center">🌱 I’m currently learning Javascript, PHP, Laravel, and Golang</p>
 
+---
 <p align="center">
 <a href="https://linkedin.com/in/imam-subekti-1b87221b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="imam-subekti-1b87221b6" height="24" /></a>
 <a href="https://fb.com/imam.subekti.779205" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="imam.subekti.779205" height="24" /></a>
@@ -21,20 +22,5 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsubekti26&line_height=10&layout=compact&theme=tokyonight&langs_count=10"/>
 </a>
 
-
-
-
-<!--
-**Imamsubekti26/Imamsubekti26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=imamsubekti26&theme=dracula&margin-w=15&margin-h=15&no-frame=true&rank=-?)](https://github.com/imamsubekti26)
