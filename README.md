@@ -23,4 +23,4 @@
 </a>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=imamsubekti26&theme=dracula&margin-w=15&margin-h=15&no-frame=true&rank=-?)](https://github.com/imamsubekti26)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imamsubekti26&theme=dracula&margin-w=40&margin-h=15&no-frame=true&rank=-?)](https://github.com/imamsubekti26)
