@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=435&height=60&lines=IMAM+SUBEKTI" />
 </h1>
 
-<h3 align="center">interested in BackEnd Web Development</h3>
+<h3 align="center">interested in Frontend and BackEnd Web Development</h3>
 <p align="center">🌱 I’m currently learning Javascript, PHP, Laravel, and Golang</p>
 
 ---
